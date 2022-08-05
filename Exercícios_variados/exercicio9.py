@@ -1,0 +1,15 @@
+a = int(input("Digite um número para ver sua tabuada: "))
+
+print("---------------")
+print("1  x {} =  {}".format(a,a*1))
+print("2  x {} = {}".format(a,a*2))
+print("3  x {} = {}".format(a,a*3))
+print("4  x {} = {}".format(a,a*4))
+print("5  x {} = {}".format(a,a*5))
+print("6  x {} = {}".format(a,a*6))
+print("7  x {} = {}".format(a,a*7))
+print("8  x {} = {}".format(a,a*8))
+print("9  x {} = {}".format(a,a*9))
+print("10 x {} = {}".format(a,a*10))
+print("---------------")
+
