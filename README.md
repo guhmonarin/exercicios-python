@@ -3,7 +3,7 @@
 ## Descrição do projeto
 
 <p align="justify">
-Esse repositóris contém vários exercícios feitos por mim em Python, para treinar e averiguar o meu aprendizado, e fixar o conteúdo aprendido.
+Esse repositório contém vários exercícios feitos por mim em Python, para treinar e averiguar o meu aprendizado, e fixar o conteúdo aprendido.
 </p>
 
 ## Conteúdo aprendido
